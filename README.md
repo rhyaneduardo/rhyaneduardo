@@ -46,14 +46,32 @@ LinkedIn: [Rhyan Eduardo](https://www.linkedin.com/in/rhyan-eduardo-2530a2283/).
 
 <img 
     align="left"
-    alt="Flutter"
-    title="Flutter"
+    alt="HTML5"
+    title="HTML5"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
 />
 
-          
+<img 
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+ 
+<img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>            
+       
+                      
 
 <br/>
 <br/>
