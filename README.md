@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rhyan Eduardo
 
-**`Estudante de Desenvolvimento Flutter`**
+**`Estudante de Desenvolvimento Front-End`**
 
 Meu nome é Rhyan Eduardo de Oliveira, tenho 23 anos e sou de Praia Grande - SP. <br>
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI, com foco em front-end para desenvolver futuros projetos pessoais para meu portfólio, soluções inovadoras e conseguir uma oportunidade na área. <br>
